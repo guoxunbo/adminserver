@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  security:
+    user:
+      name: admin
+      password: admin123
+  boot:
+    admin:
+      ui:
+        title: VCIM ADMIN
+        cache-templates: false
+        brand: <img src="assets/img/icon-spring-boot-admin.svg"><span>VCIM ADMIN</span>
