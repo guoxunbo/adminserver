@@ -20,7 +20,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>parent</name>
+    <name>adminserver-parent</name>
     <description>The parent project of adminserver</description>
 
     <properties>
